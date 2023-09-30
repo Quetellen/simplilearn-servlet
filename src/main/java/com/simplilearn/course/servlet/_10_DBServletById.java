@@ -99,9 +99,9 @@ public class _10_DBServletById extends HttpServlet {
 
         User user = null;
 
-        String dbUrl = "jdbc:mysql://localhost:3306/mydb";
-        String dbUsername = "root";
-        String dbPassword = "rootroot";
+    	String dbUrl = "jdbc:mysql://localhost:3306/mydb";
+		String dbUsername = "root";
+		String dbPassword = "Astro78*llOvw67%";
 
         /*
          * Create the Select SQL Statement

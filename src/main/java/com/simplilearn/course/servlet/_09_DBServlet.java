@@ -90,9 +90,9 @@ public class _09_DBServlet extends HttpServlet {
 
     List<User> loadUsers(){
 
-        String dbUrl = "jdbc:mysql://localhost:3306/mydb";
-        String dbUsername = "root";
-        String dbPassword = "rootroot";
+    	String dbUrl = "jdbc:mysql://localhost:3306/mydb";
+		String dbUsername = "root";
+		String dbPassword = "Astro78*llOvw67%";
 
         List<User> users = new ArrayList<>();
 
